@@ -1,0 +1,97 @@
+<!DOCTYPE recettes SYSTEM "C:\Users\utilisateur\Documents\NAW\tp1_exo2.dtd">
+<recettes>
+	<recette>
+		<nom>Tiramisu</nom>
+		<portion>6/8</portion>
+		<preparation value="35" unit="min"/>
+		<cuisson value="0" unit="min"/>
+		<repos value="12" unit="h"/>
+		<ingredients>
+			<i>
+				<nom id="ing1">oeufs</nom>
+				<nbre>5</nbre>
+			</i>
+			<i>
+				<nom id="ing2">sucre en poudre</nom>
+				<poids unit="gramme">100</poids>
+			</i>
+			<i>
+				<nom id="ing3">mascarpone</nom>
+				<poids unit="gramme">500</poids>
+			</i>
+			<i>
+				<nom id="ing4">cafe soluble</nom>
+				<poids unit="gramme">25</poids>
+			</i>
+			<i>
+				<nom id="ing5">biscuits � la cuill�re</nom>
+				<nbre>42</nbre>
+			</i>
+			<i>
+				<nom id="ing6">cacao non sucr�</nom>
+				<poids unit="gramme">10</poids>
+			</i>
+		</ingredients>
+		<guide>
+			<block>
+Commencez par s�parer les 5 jaunes d'
+<renvoi ref="ing1">oeufs</renvoi>
+de leur blanc dans deux grands saladiers et montez les 5 blancs d'
+<renvoi ref="ing1">oeufs</renvoi>
+en neige tr�s fermes.
+</block>
+			<block>
+Battez les 5 jaunes avec le
+<renvoi ref="ing2">sucre</renvoi>
+jusqu'� l'obtention d'un m�lange mousseux, puis ajoutez-y le
+<renvoi ref="ing3">mascarpone</renvoi>
+.
+</block>
+			<block>
+Incorporez � pr�sent les blancs d'oeufs dans le m�lange.
+</block>
+			<block>
+Pr�parez un caf� bien fort avec du
+<renvoi ref="ing4">caf� soluble</renvoi>
+et trempez-y les
+<renvoi ref="ing5">biscuits</renvoi>
+au fur et � mesure de leur installation dans le plat.
+<strong>
+Attention les biscuits absorbent tr�s vite le caf�.
+</strong>
+			</block>
+			<block>
+Commencez par disposer une couche de biscuits imbib�s au fond du moule, puis versez une couche de m�lange et ainsi de suite.
+</block>
+			<block>
+Saupoudrez le cacao sur le tiramisu en utilisant une petite passoire. Il sera ainsi plus facile de le parsemer uniform�ment.
+</block>
+			<block>
+Il ne vous reste plus qu'� le placer au r�frig�rateur durant
+<repos value="12" unit="h"/>
+heures.
+</block>
+		</guide>
+	</recette>
+	<recette>
+		<nom>Oeufs � la coque</nom>
+		<portion>4</portion>
+		<preparation value="1" unit="min"/>
+		<cuisson value="3" unit="min"/>
+		<ingredients>
+			<i>
+				<nom id="ing1">oeufs</nom>
+				<nbre>4</nbre>
+			</i>
+		</ingredients>
+		<guide>
+Plongez d�licatement les
+<renvoi ref="ing1">oeufs</renvoi>
+dans de l'eau port�e � �bullition. Fa�tes reprendre l'�bullition, puis baissez le feu et laissez cuire � petits bouillons pendant
+<cuisson value="3" unit="min"/>
+minutes. �gouttez les
+<renvoi ref="ing1">oeufs</renvoi>
+, posez-les dans des coquetiers et coupez hortizontalement la partie sup�rieure pour les d�guster.
+</guide>
+	</recette>
+</recettes>
