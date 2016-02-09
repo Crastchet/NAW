@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questionnaires SYSTEM "questionnaire.dtd">
+<questionnaires>
+	<questionnaire niveau="debutant">
+		<titre>Questionnaire débutant N°1</titre>
+		<questions>
+			<question>
+				<enonce>À quel réalisateur français doit-on le film "Banzaï" ?</enonce>
+				<reponse id="q1R1" score="0">Claude Lelouch</reponse>
+				<reponse id="q1R2" score="10">Claude Zidi</reponse>
+				<reponse id="q1R3" score="0">Claude Chabrol</reponse>
+				<reponse id="q1R4" score="0">Claude Sautet</reponse>
+			</question>
+			<question>
+				<enonce>Quel film a réuni sur les écrans Isabelle Adjani et Sharon Stone ?</enonce>
+				<reponse id="q2R1" score="10">Diabolique</reponse>
+				<reponse id="q2R2" score="0">Ange et Démon</reponse>
+				<reponse id="q2R3" score="0">Les sorcières</reponse>
+				<reponse id="q2R4" score="0">Les ensorceleuses</reponse>
+			</question>
+			<question>
+				<enonce>Comment est également appelée la « Transat Jacques Vabre » ?</enonce>
+				<reponse id="q3R1" score="0">Route du rhum</reponse>
+				<reponse id="q3R2" score="0">Vendée Globe</reponse>
+				<reponse id="q3R3" score="12">Route du café</reponse>
+				<reponse id="q3R4" score="0">Trophée du rhum</reponse>
+			</question>
+			<question>
+				<enonce>Quel nom porte le logiciel de traitement de texte mis au point par Microsoft ?</enonce>
+				<reponse id="q4R1" score="0">Access</reponse>
+				<reponse id="q4R2" score="12">Word</reponse>
+				<reponse id="q4R3" score="0">Excel</reponse>
+				<reponse id="q4R4" score="0">Power Point</reponse>
+			</question>
+			<question>
+				<enonce>Quel pays a pour capitale Katmandou ?</enonce>
+				<reponse id="q5R1" score="14">Le Népal</reponse>
+				<reponse id="q5R2" score="0">Le Tibet</reponse>
+				<reponse id="q5R3" score="0">La Corée du Sud</reponse>
+				<reponse id="q5R4" score="0">Le Pakistan</reponse>
+			</question>
+			<question>
+				<enonce>À quel réalisateur français doit-on "Le Corniaud" ou "La Grande Vadrouille" ?</enonce>
+				<reponse id="q6R1" score="0">Patrice Lefebvre</reponse>
+				<reponse id="q6R2" score="0">Claude Zidi</reponse>
+				<reponse id="q6R3" score="0">Patrice Leconte</reponse>
+				<reponse id="q6R4" score="14">Gérard Oury</reponse>
+			</question>
+			<question>
+				<enonce>À quel groupe musical international doit-on la bande originale du film "Flash Gordon" ?</enonce>
+				<reponse id="q7R1" score="16">Queen</reponse>
+				<reponse id="q7R2" score="0">Yes</reponse>
+				<reponse id="q7R3" score="0">Led Zeppelin</reponse>
+				<reponse id="q7R4" score="0">The Doors</reponse>
+			</question>
+			<question>
+				<enonce>À quelle classe animale le scorpion appartient-il ?</enonce>
+				<reponse id="q8R1" score="0">Aux mammifères</reponse>
+				<reponse id="q8R2" score="0">Aux reptiles</reponse>
+				<reponse id="q8R3" score="16">Aux arachnides</reponse>
+				<reponse id="q8R4" score="0">Aux insectes</reponse>
+			</question>
+			<question>
+				<enonce>Quel oiseau palmipède a pour particularité de construire un nid flottant ?</enonce>
+				<reponse id="q9R1" score="0">La grèle</reponse>
+				<reponse id="q9R2" score="0">La grève</reponse>
+				<reponse id="q9R3" score="18">La grèbe</reponse>
+				<reponse id="q9R4" score="0">La grène</reponse>
+			</question>
+			<question>
+				<enonce>Quelle est la race du chien de Columbo ?</enonce>
+				<reponse id="q10R1" score="18">Basset</reponse>
+				<reponse id="q10R2" score="0">Beagle</reponse>
+				<reponse id="q10R3" score="0">Barbet</reponse>
+				<reponse id="q10R4" score="0">Bichon</reponse>
+			</question>
+		</questions>
+	</questionnaire>
+</questionnaires>
